@@ -1,7 +1,8 @@
 # Kubernetes AI Assistant   
 ## major credits to ✨AkhilSharma90
 
-This is an A.I. powered `kubectl` plugin to generate and apply Kubernetes manifests using OpenAI GPT.
+ A.I. powered `kubectl` plugin to generate and apply Kubernetes manifests using OpenAI GPT.
+ ### FIRST YOU REQUIRE AN OPEN AI KEY
 
 
 `kubectl-assistant` requires a valid Kubernetes configuration, and make sure your config file is in ~.kube/ and the name of the file is config 
@@ -151,4 +152,4 @@ spec:
   type: LoadBalancer
 ```
 
-> Please note that the plugin does not know the current state of the cluster (yet?), so it will always generate the full manifest.
+
