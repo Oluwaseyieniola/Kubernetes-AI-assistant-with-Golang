@@ -1,4 +1,4 @@
-# Kubernetes AI Assistant   
+# Kubernetes AI Assistant  built with Golang 
 ## major credits to ✨AkhilSharma90
 
  A.I. powered `kubectl` plugin to generate and apply Kubernetes manifests using OpenAI GPT.
